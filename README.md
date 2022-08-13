@@ -45,8 +45,9 @@ You must print two lines of output:
 
 Sample Output
 
-* Hello, World.
-* Hello, Java.
+    Hello, World.
+    Hello, Java.
+ 
 
 (<a href="https://github.com/almeidastor/RackerHank_challenges/blob/main/src/main/java/com/mycompany/rackerhank_challenges/Welcome_to_Java.java">Resolução</a>)
 
