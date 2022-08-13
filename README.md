@@ -10,7 +10,7 @@
 ### Sumário
 🔹 [Descrição](#descrição-do-projeto)
 
-🔹 [Desafio 01: Welcome to Java!](#Welcome-to-Java!)
+🔹 [Desafio 01: Welcome to Java!](#welcome-to-java)
 
 🔹 [](#)
 
