@@ -60,14 +60,12 @@ In this challenge, you must read 3 integers from stdin and then print them to st
 
 There are 3 lines of input, and each line contains a single integer.
 
-* Sample Input
-
+Sample input
     42
     100
     125
 
-* Sample Output
-
+Sample Output
     42
     100
     125
