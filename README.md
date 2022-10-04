@@ -32,6 +32,111 @@
 
 🔹 [](#)
 
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
+
+🔹 [](#)
 
 ## Descrição do projeto 
 <p align="justify">
@@ -359,6 +464,231 @@ For each line, print the line number, followed by a single space, and then the l
     1 Hello world
     2 I am a file
     3 Read me until end-of-file.
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
+
+(<a href="">Resolução</a>)
+
+## 
+* Task
 
 (<a href="">Resolução</a>)
 
