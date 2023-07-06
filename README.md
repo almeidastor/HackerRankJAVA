@@ -30,113 +30,113 @@
 
 🔹 [Desafio 10: Java Static Initializer Block](#)
 
-🔹 [](#)
+🔹 [Desafio 11: Java Int to String](#)
 
-🔹 [](#)
+🔹 [Desafio 12: Java Date and Time](#)
 
-🔹 [](#)
+🔹 [Desafio 13: ](#)
 
-🔹 [](#)
+🔹 [Desafio 14: ](#)
 
-🔹 [](#)
+🔹 [Desafio 15: ](#)
 
-🔹 [](#)
+🔹 [Desafio 16: ](#)
 
-🔹 [](#)
+🔹 [Desafio 17: ](#)
 
-🔹 [](#)
+🔹 [Desafio 18: ](#)
 
-🔹 [](#)
+🔹 [Desafio 19: ](#)
 
-🔹 [](#)
+🔹 [Desafio 20: ](#)
 
-🔹 [](#)
+🔹 [Desafio 21: ](#)
 
-🔹 [](#)
+🔹 [Desafio 22: ](#)
 
-🔹 [](#)
+🔹 [Desafio 23: ](#)
 
-🔹 [](#)
+🔹 [Desafio 24: ](#)
 
-🔹 [](#)
+🔹 [Desafio 25: ](#)
 
-🔹 [](#)
+🔹 [Desafio 26: ](#)
 
-🔹 [](#)
+🔹 [Desafio 27: ](#)
 
-🔹 [](#)
+🔹 [Desafio 28: ](#)
 
-🔹 [](#)
+🔹 [Desafio 29: ](#)
 
-🔹 [](#)
+🔹 [Desafio 30: ](#)
 
-🔹 [](#)
+🔹 [Desafio 31: ](#)
 
-🔹 [](#)
+🔹 [Desafio 32: ](#)
 
-🔹 [](#)
+🔹 [Desafio 33: ](#)
 
-🔹 [](#)
+🔹 [Desafio 34: ](#)
 
-🔹 [](#)
+🔹 [Desafio 35: ](#)
 
-🔹 [](#)
+🔹 [Desafio 36: ](#)
 
-🔹 [](#)
+🔹 [Desafio 37: ](#)
 
-🔹 [](#)
+🔹 [Desafio 38: ](#)
 
-🔹 [](#)
+🔹 [Desafio 39: ](#)
 
-🔹 [](#)
+🔹 [Desafio 40: ](#)
 
-🔹 [](#)
+🔹 [Desafio 41: ](#)
 
-🔹 [](#)
+🔹 [Desafio 42: ](#)
 
-🔹 [](#)
+🔹 [Desafio 43: ](#)
 
-🔹 [](#)
+🔹 [Desafio 44: ](#)
 
-🔹 [](#)
+🔹 [Desafio 45: ](#)
 
-🔹 [](#)
+🔹 [Desafio 46: ](#)
 
-🔹 [](#)
+🔹 [Desafio 47: ](#)
 
-🔹 [](#)
+🔹 [Desafio 48: ](#)
 
-🔹 [](#)
+🔹 [Desafio 49: ](#)
 
-🔹 [](#)
+🔹 [Desafio 50: ](#)
 
-🔹 [](#)
+🔹 [Desafio 51: ](#)
 
-🔹 [](#)
+🔹 [Desafio 52: ](#)
 
-🔹 [](#)
+🔹 [Desafio 53: ](#)
 
-🔹 [](#)
+🔹 [Desafio 54: ](#)
 
-🔹 [](#)
+🔹 [Desafio 55: ](#)
 
-🔹 [](#)
+🔹 [Desafio 56: ](#)
 
-🔹 [](#)
+🔹 [Desafio 57: ](#)
 
-🔹 [](#)
+🔹 [Desafio 58: ](#)
 
-🔹 [](#)
+🔹 [Desafio 59: ](#)
 
-🔹 [](#)
+🔹 [Desafio 60: ](#)
 
-🔹 [](#)
+🔹 [Desafio 61: ](#)
 
-🔹 [](#)
+🔹 [Desafio 62: ](#)
 
-🔹 [](#)
+🔹 [Desafio 63: ](#)
 
-🔹 [](#)
+🔹 [Desafio 64: ](#)
 
 ## Descrição do projeto 
 <p align="justify">
@@ -496,13 +496,60 @@ If both values are greater than zero, then the main method must output the area 
 
 (<a href="">Resolução</a>)
 
-## 
+## Java Int to String
 * Task
+You are given an integer n, you have to convert it into a string.
+Please complete the partially completed code in the editor. If your code successfully converts n into a string s 
+the code will print "Good job". Otherwise it will print "Wrong answer".
+n can range between -100 to 100 inclusive.
+
+* Sample Input
+
+    100
+
+* Sample Output
+
+    Good Job
+
 
 (<a href="">Resolução</a>)
 
-## 
+## Java Date and Time
 * Task
+The Calendar class is an abstract class that provides methods for converting between a specific instant in time and a set of calendar fields such as YEAR, MONTH, DAY_OF_MONTH, HOUR, and so on, and for manipulating the calendar fields, such as getting the date of the next week.
+
+You are given a date. You just need to write the method, getDay, which returns the day on that date. To simplify your task, we have provided a portion of the code in the editor. 
+
+Example
+month = 8
+day = 14
+year = 2017
+The method should return MONDAY as the day on that date. 
+
+Function Description 
+Complete the findDay function in the editor below.
+
+findDay has the following parameters:
+
+    int: month
+    int: day
+    int: year
+
+Returns
+
+    string: the day of the week in capital letters
+
+Input Format
+A single line of input containing the space separated month, day and year, respectively, in MM DD YYYY format.
+
+
+* Sample Input
+
+    08 05 2015
+
+* Sample Output
+
+    WEDNESDAY
 
 (<a href="">Resolução</a>)
 
