@@ -34,7 +34,7 @@
 
 🔹 [Desafio 12: Java Date and Time](#)
 
-🔹 [Desafio 13: ](#)
+🔹 [Desafio 13: Java Currency Formatter](#)
 
 🔹 [Desafio 14: ](#)
 
@@ -553,8 +553,28 @@ A single line of input containing the space separated month, day and year, respe
 
 (<a href="">Resolução</a>)
 
-## 
+## Java Currency Formatter
 * Task
+Given a double-precision number, payment , denoting an amount of money, use the NumberFormat class' getCurrencyInstance method to convert payment into the US, Indian, Chinese, and French currency formats. Then print the formatted values as follows:
+
+US: formattedPayment
+India: formattedPayment
+China: formattedPayment
+France: formattedPayment
+
+where formattedPayment is Payment formatted according to the appropriate Locale's currency.
+Note: India does not have a built-in Locale, so you must construct one where the language is en (i.e., English).
+
+* Sample Input
+
+    12324.134
+
+* Sample Output
+
+    US: $12,324.13
+    India: Rs.12,324.13
+    China: ￥12,324.13
+    France: 12 324,13 €
 
 (<a href="">Resolução</a>)
 
