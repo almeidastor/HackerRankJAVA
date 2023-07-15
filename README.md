@@ -235,7 +235,7 @@ n is odd and odd numbers are weird, so we print Weird.
 Sample Case 1: n=24
 n>20 and is even, so it isn't weird. Thus, we print Not Weird.
 
-(<a href="">Resolução</a>)
+(<a href="https://github.com/almeidastor/HackerRank_challenges/blob/main/src/main/java/com/mycompany/rackerhank_challenges/Java_If_Else.java">Resolução</a>)
 
 ## Java Stdin and Stdout II
 * Task
@@ -273,7 +273,7 @@ Sample Output
     Double: 3.1415
     Int: 42
 
-(<a href="">Resolução</a>)
+(<a href="https://github.com/almeidastor/HackerRank_challenges/blob/main/src/main/java/com/mycompany/rackerhank_challenges/Java_Stdin_and_Stdout2.java">Resolução</a>)
 
 ## Java Output Formatting
 * Task
@@ -311,7 +311,7 @@ Sample Output
 
 Each String is left-justified with trailing whitespace through the first 15 characters. The leading digit of the integer is the 16th character, and each integer that was less than 3 digits now has leading zeroes.
 
-(<a href="">Resolução</a>)
+(<a href="https://github.com/almeidastor/HackerRank_challenges/blob/main/src/main/java/com/mycompany/rackerhank_challenges/Java_Output_Formatting.java">Resolução</a>)
 
 ## Java Loops I
 * Task
@@ -345,7 +345,7 @@ Sample Output
     2 x 9 = 18
     2 x 10 = 20
 
-(<a href="">Resolução</a>)
+(<a href="https://github.com/almeidastor/HackerRank_challenges/blob/main/src/main/java/com/mycompany/rackerhank_challenges/Java_Loops_I.java">Resolução</a>)
 
 ## Java Loops II
 * Task
@@ -378,7 +378,7 @@ Sample Output
     2 6 14 30 62 126 254 510 1022 2046
     8 14 26 50 98
 
-(<a href="">Resolução</a>)
+(<a href="https://github.com/almeidastor/HackerRank_challenges/blob/main/src/main/java/com/mycompany/rackerhank_challenges/Java_Loops_II.java">Resolução</a>)
 
 ## Java Datatypes
 * Task
@@ -439,7 +439,7 @@ byte < short < int < long
 -150 can be stored in a short, an int, or a long.
 21333333333333333333333333333333333 is very large and is outside of the allowable range of values for the primitive data types discussed in this problem.
 
-(<a href="">Resolução</a>)
+(<a href="https://github.com/almeidastor/HackerRank_challenges/blob/main/src/main/java/com/mycompany/rackerhank_challenges/Java_Datatypes.java">Resolução</a>)
 
 ## Java End Of File
 * Task
@@ -465,7 +465,7 @@ For each line, print the line number, followed by a single space, and then the l
     2 I am a file
     3 Read me until end-of-file.
 
-(<a href="">Resolução</a>)
+(<a href="https://github.com/almeidastor/HackerRank_challenges/blob/main/src/main/java/com/mycompany/rackerhank_challenges/Java_End_Of_File.java">Resolução</a>)
 
 ## Java Static Initializer Block
 * Task
@@ -494,7 +494,7 @@ If both values are greater than zero, then the main method must output the area 
 
     3
 
-(<a href="">Resolução</a>)
+(<a href="https://github.com/almeidastor/HackerRank_challenges/blob/main/src/main/java/com/mycompany/rackerhank_challenges/Java_Static_Initializer_Block.java">Resolução</a>)
 
 ## Java Int to String
 * Task
@@ -512,7 +512,7 @@ n can range between -100 to 100 inclusive.
     Good Job
 
 
-(<a href="">Resolução</a>)
+(<a href="https://github.com/almeidastor/HackerRank_challenges/blob/main/src/main/java/com/mycompany/rackerhank_challenges/Java_Int_To_String.java">Resolução</a>)
 
 ## Java Date and Time
 * Task
@@ -551,7 +551,7 @@ A single line of input containing the space separated month, day and year, respe
 
     WEDNESDAY
 
-(<a href="">Resolução</a>)
+(<a href="https://github.com/almeidastor/HackerRank_challenges/blob/main/src/main/java/com/mycompany/rackerhank_challenges/Java_Date_and_Time.java">Resolução</a>)
 
 ## Java Currency Formatter
 * Task
@@ -576,259 +576,10 @@ Note: India does not have a built-in Locale, so you must construct one where the
     China: ￥12,324.13
     France: 12 324,13 €
 
-(<a href="">Resolução</a>)
+(<a href="https://github.com/almeidastor/HackerRank_challenges/blob/main/src/main/java/com/mycompany/rackerhank_challenges/Java_Currency_Formatter.java">Resolução</a>)
 
 ## 
 * Task
 
 (<a href="">Resolução</a>)
 
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
-
-## 
-* Task
-
-(<a href="">Resolução</a>)
